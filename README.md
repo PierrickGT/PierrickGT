@@ -1,4 +1,4 @@
-### Bonjour, I'm Pierrick
+### Bonjour, I'm Pierrick 🇫🇷
 
 By day I am a Front-End Developer specializing in JavaScript and accessibility at a midsize company, the number one real estate appraisal platform in France. By night I am actively involved in various Decentralized Autonomous Organizations on the Ethereum blockchain. I have recently won several Ethereum hackathons.
 
