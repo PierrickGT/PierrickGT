@@ -11,3 +11,7 @@ Within my team I collaborate with our UX/UI designers, product managers, and oth
 I have six years of experience as a Front-End engineer working for startups and large size companies. In the span of the last four years, I have collaborated on a team of Front-End engineers that began with four engineers and grew to sixteen.
 
 My Ethereum experience comes out of participating in hackathons and collaborating with others in the Ethereum community.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrickgt&layout=compact)](https://pierrick.turelier.com)
+
+[![Pierrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrickgt&show_icons=true)](https://pierrick.turelier.com)
