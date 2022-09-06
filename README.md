@@ -1,4 +1,4 @@
-### Bonjour, I'm Pierrick 🇫🇷
+## Bonjour, I'm Pierrick 🇫🇷
 
 I am a full-time Solidity Engineer at PoolTogether, a protocol on the Ethereum blockchain for no-loss prize games. 
 
@@ -8,7 +8,7 @@ Now, I build smart contracts responsible for moving funds deposited by our users
 
 My passion for Ethereum began by participating in hackathons and collaborating with others in the Ethereum community. I am actively involved in Decentralized Autonomous Organizations on the Ethereum blockchain and I have won several Ethereum hackathons.
 
-### My Experience
+## My Experience
 
 I have six years of experience as a Front-End engineer working for startups and large size companies. 
 
@@ -16,7 +16,9 @@ For four years, I worked as a Front-End Developer specializing in JavaScript and
 
 During this time, I worked on a team of Front-End engineers that began with four engineers and grew to sixteen. Within my team I collaborated with our UX/UI designers, product managers, and other software engineers. I spearheaded initiatives within Meilleurs Agents to adopt Typescript and standardize design tokens across all our apps and platforms.
 
-Aside from coding, I have an eye for design and enjoyed participating in design studios and feature prioritization. My day to day often involved coding, unit testing and end to end testing, data-driven decision making, and contributing to our reusable components library. 
+Aside from coding, I have an eye for design and enjoyed participating in design studios and feature prioritization. My day to day often involved coding, unit testing and end to end testing, data-driven decision making, and contributing to our reusable components library.
+
+##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrickgt&layout=compact)](https://pierrick.turelier.com)
 
