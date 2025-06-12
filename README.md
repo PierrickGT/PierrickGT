@@ -1,6 +1,6 @@
 ## Bonjour, I'm Pierrick 🇫🇷
 
-I am a full-time Solidity Engineer at M^0, a stablecoin infrastructure for the next-generation of finance on the Ethereum blockchain.
+I am a full-time Solidity Engineer at M0, a stablecoin infrastructure for the next-generation of finance on the Ethereum blockchain.
 
 I am most proud of my versatility, jumping from Front-End Developer for six years to Solidity engineer at PoolTogether and then M^0. My time working in France as a Front-End Developer honed my coding and design skills.
 Now, I build smart contracts responsible of minting $M, a stablecoin backed by US Treasury Bills, and facilitating its widespread adoption by integrating with layer twos blockchains and various DeFi products.
